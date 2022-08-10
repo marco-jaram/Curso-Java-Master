@@ -1,5 +1,7 @@
 public class SentenciIfElse {
     public static void main(String[] args) {
+
+//        modo simple
         float promedio = 9.8f;
         if (promedio >= 6.5) {
             System.out.println("Bien mi chavo");
@@ -7,7 +9,7 @@ public class SentenciIfElse {
         }else {
             System.out.println("Necesitas echarle mas ganitas mi chavo");
         }
-
+//modo if-esle-esles-if
 
 float calis= 5.0f;
         if (calis  >=6.5){
